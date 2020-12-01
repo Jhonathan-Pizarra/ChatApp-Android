@@ -1,0 +1,24 @@
+1 genera la APK
+los demás prueban
+
+Si nos pasasmos el APK podemos acceder a la misma base de 
+datos
+
+va a salir: alberto: escribio esto etc
+
+el autenticathor es el que valida ese usario
+
+una vez que le autentico le grabo en una variabñe
+jhonathan: mensaje
+los demás usuaros verá esto
+
+abriri un cuadro de dialogo,
+la foto se sube al repositprio de firebase...
+
+tengo el strogae con una url 
+esa le puedo consumir
+
+3 modelos de emuladors
+
+
+Ref: https://codelabs.developers.google.com/codelabs/firebase-android/#0
